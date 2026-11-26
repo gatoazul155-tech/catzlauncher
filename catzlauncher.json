@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "launcher": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/SEU-USUARIO/catzlauncher/releases/latest",
+    "notes": "Primeira versão."
+  },
+  "access": {
+    "required": false
+  },
+  "session": {
+    "open": true,
+    "name": "Sessão do Catz",
+    "message": "Abra o jogo e entre na sala do Catz."
+  },
+  "loader": null,
+  "mods": []
+}
